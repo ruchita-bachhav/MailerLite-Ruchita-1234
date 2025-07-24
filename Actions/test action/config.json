@@ -1,17 +1,16 @@
 {
-  "Name": "AA10798",
   "Type_c": "Action",
-  "Label_c": "Create webhook",
+  "Label_c": "TESTING ACTION",
   "AppId_c": {
     "ID": 1016,
     "Name": "MailerLiteRuchi"
   },
-  "Description_c": "WEBHOOK CREATED",
+  "Description_c": "WEBHOOK DELETED",
   "StepDescription_c": "",
-  "Url_c": "https://api.mailerlite.com/api/v2/webhooks",
-  "Method_c": "POST",
+  "Url_c": "https://api.mailerlite.com/api/v2/webhooks/{{id}}",
+  "Method_c": "DELETE",
   "IsTestAction_c": false,
-  "IsHidden_c": true,
+  "IsHidden_c": false,
   "DelegateActionId_c": {
     "ID": 0,
     "Name": ""
