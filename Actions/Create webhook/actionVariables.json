@@ -5,7 +5,7 @@
       "ID": 4,
       "Name": "Akshay Saundane"
     },
-    "Label_c": "Event",
+    "Label_c": "EEEE",
     "Type_c": "String",
     "ParentKey_c": "",
     "ActionId_c": {
@@ -17,7 +17,7 @@
     "Description_c": "",
     "Placement_c": "Body",
     "SampleValue_c": "subscriber.create",
-    "Choices_c": "",
+    "Choices_c": "",E
     "IsRequired_c": false,
     "Direction_c": "Input",
     "DynamicSearchKey_c": "",
@@ -63,7 +63,7 @@
       "ID": 4,
       "Name": "Akshay Saundane"
     },
-    "Label_c": "URL",
+    "Label_c": "URLLLL",
     "Type_c": "String",
     "ParentKey_c": "",
     "ActionId_c": {
