@@ -26,7 +26,7 @@
     "ID": 1016,
     "Name": "MailerLiteRuchi"
   },
-  "Description_c": "",
+  "Description_c": "WEBHOOK DELETED",
   "StepDescription_c": "",
   "Url_c": "https://api.mailerlite.com/api/v2/webhooks/{{id}}",
   "Method_c": "DELETE",
