@@ -23,7 +23,7 @@
   "Label_c": "MailerLite Ruchita",
   "LogoUrl_c": "https://integrately-app-logos.s3-us-west-2.amazonaws.com/mailerlite.png",
   "IsStandard_c": false,
-  "Description_c": "This is test desc for mailerlite 12346",
+  "Description_c": "The mailerlite is the best email marketing platform",
   "AuthType_c": "ApiKey",
   "AuthMapping_c": "{\n\"X-MailerLite-ApiKey\":\"{{apikey}}\"\n}",
   "AuthTitleMapping_c": "apikey",

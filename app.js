@@ -1,6 +1,6 @@
 var app = {
   isValid: function (response, statusCode) {
-    __Logger.log("isvalid started");
+    __Logger.log("App script updated");
     var result = {
       isError: false,
       message: "",

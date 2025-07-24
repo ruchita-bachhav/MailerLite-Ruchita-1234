@@ -1,5 +1,5 @@
 {
   action = {
-    console.log("delete webhook action script for today");
+    console.log("delete webhook action script updated");
   };
 }
